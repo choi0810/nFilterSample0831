@@ -1,0 +1,6 @@
+use_frameworks!
+target 'nFilterSample0831_Tests' do
+  pod 'nFilterSample0831', :path => '../'
+  
+  
+end
