@@ -1,0 +1,16 @@
+PODS:
+  - nFilterSample0831 (0.1.0)
+
+DEPENDENCIES:
+  - nFilterSample0831 (from `../`)
+
+EXTERNAL SOURCES:
+  nFilterSample0831:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  nFilterSample0831: b384025ff778aadfb4c48b5c0c2c9f89a8187fe7
+
+PODFILE CHECKSUM: 9fa3df7428453f8aa01789e7afc78d669964aad6
+
+COCOAPODS: 1.10.2
